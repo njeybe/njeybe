@@ -1,24 +1,24 @@
 <div align="center">
 
-# 👋 Hi, I’m Joseph Brian Natividad  
+#  Hi, I’m Joseph Brian Natividad  
 
 <div align="center" style="display: inline-block; text-align: left; max-width: 600px;">
 
-🚀 **Aspiring Full Stack Developer**  
-💻 Currently learning **JavaScript**  
-🌱 Future plans: **MERN (MongoDB, Express, React, Node.js)**  
-🎯 Goal: Build efficient, scalable, and user-friendly applications  
+ **Aspiring Full Stack Developer**  
+ Currently learning **JavaScript**  
+ Future plans: **MERN (MongoDB, Express, React, Node.js)**  
+ Goal: Build efficient, scalable, and user-friendly applications  
 
 </div>
 
 
-## 🌐 Socials:
+##  Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/njeybe) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-brian-natividad-b120ba2a3/)
 
 ---
 
-# 💻 Tech Stack:
+#  Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -33,7 +33,7 @@
 
 ---
 
-# 📊 GitHub Stats:
+#  GitHub Stats:
 
 
 <table>
@@ -47,7 +47,7 @@
   </tr>
 </table>
 
-### 🔝 Top Contributed Repo
+###  Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=njeybe&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
