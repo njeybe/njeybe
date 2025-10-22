@@ -5,8 +5,8 @@
 <div align="center" style="display: inline-block; text-align: left; max-width: 600px;">
 
  **Aspiring Full Stack Developer**  
- Currently learning **JavaScript**  
- Future plans: **MERN (MongoDB, Express, React, Node.js)**  
+ Currently learning **MERN**  
+ Future plans: **PERN (PostgreSQL, Express, React, Node.js)**  
  Goal: Build efficient, scalable, and user-friendly applications  
 
 </div>
