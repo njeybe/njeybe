@@ -12,9 +12,10 @@
 ## Socials
 
 <p align="center">
- <a href="https://facebook.com/njeybe" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="35" alt="Facebook"/>
+ <a href="mailto:njeybe@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="35" alt="Gmail"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://facebook.com/njeybe" target="_blank">
     <img src="https://skillicons.dev/icons?i=facebook" height="35" alt="Facebook"/>
   </a>
