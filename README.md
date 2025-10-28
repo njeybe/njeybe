@@ -12,6 +12,9 @@
 ## Socials
 
 <p align="center">
+ <a href="https://facebook.com/njeybe" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" height="35" alt="Facebook"/>
+  </a>
   <a href="https://facebook.com/njeybe" target="_blank">
     <img src="https://skillicons.dev/icons?i=facebook" height="35" alt="Facebook"/>
   </a>
