@@ -27,7 +27,7 @@
 
 ---
 
-## Tech Stack
+## Tools & Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mongodb,mysql,figma,git,github,vscode&theme=dark" />
