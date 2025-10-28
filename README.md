@@ -35,21 +35,6 @@
 
 ---
 
-## GitHub Stats
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=njeybe&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=njeybe&theme=tokyonight&hide_border=false" />
-    </td>
-  </tr>
-</table>
-
----
-
 ### Top Contributed Repo
 <img src="https://github-contributor-stats.vercel.app/api?username=njeybe&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 
