@@ -1,54 +1,61 @@
 <div align="center">
 
-#  Hi, I’m Joseph Brian Natividad  
+# 👋 Hi, I’m **Joseph Brian Natividad**
 
-<div align="center" style="display: inline-block; text-align: left; max-width: 600px;">
+### 🚀 Aspiring Full Stack Developer  
+💻 Currently learning: **MERN Stack (MongoDB, Express, React, Node.js)**  
+🎯 Future plans: **PERN (PostgreSQL, Express, React, Node.js)**  
+🌟 Goal: Build efficient, scalable, and user-friendly applications  
 
- Aspiring Full Stack Developer  
- Currently learning: MERN  
- Future plans: PERN (PostgreSQL, Express, React, Node.js)  
- Goal: Build efficient, scalable, and user-friendly applications  
+---
 
-</div>
-
-##  Socials:
+## 🌐 Socials
 
 <p align="center">
-<a href="https://facebook.com/njeybe" target="_blank">
-<img src="https://www.google.com/search?q=https://cdn.simpleicons.org/facebook/1877F2" height="30" width="30" alt="Facebook"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/joseph-brian-natividad-b120ba2a3/" target="_blank">
-<img src="https://www.google.com/search?q=https://cdn.simpleicons.org/linkedin/0077B5" height="30" width="30" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.google.com/search?q=https://github.com/njeybe" target="_blank">
-<img src="https://www.google.com/search?q=https://cdn.simpleicons.org/github/181717" height="30" width="30" alt="GitHub"/>
-</a>
+  <a href="https://facebook.com/njeybe" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" height="35" alt="Facebook"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/joseph-brian-natividad-b120ba2a3/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/njeybe" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="35" alt="GitHub"/>
+  </a>
 </p>
 
-#  Tech Stacks:
+---
+
+## 🧰 Tech Stack
 
 <p align="center">
-<a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djava,js,html,css,react,nodejs,mongodb,mysql,figma,git,github%26theme%3Ddark" />
-</a>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mongodb,mysql,figma,git,github,vscode&theme=dark" />
 </p>
 
-#  GitHub Stats:
+---
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=njeybe&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
-    </td>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=njeybe&theme=tokyonight&hide_border=false" />
-    </td>
-  </tr>
+## 📊 GitHub Stats
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=njeybe&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=njeybe&theme=tokyonight&hide_border=false" />
+    </td>
+  </tr>
 </table>
 
-###  Top Contributed Repo
+---
+
+### 🏆 Top Contributed Repo
+<img src="https://github-contributor-stats.vercel.app/api?username=njeybe&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+
+---
+
+<sub>✨ Proudly crafted with ❤️ by Joseph Brian Natividad ✨</sub>  
+<!-- Created using GPRM (https://gprm.itsvg.in) -->
 
 </div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
