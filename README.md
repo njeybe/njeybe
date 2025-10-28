@@ -1,15 +1,15 @@
 <div align="center">
 
-# 👋 Hi, I’m **Joseph Brian Natividad**
+# **Joseph Brian Natividad**
 
-### 🚀 Aspiring Full Stack Developer  
-💻 Currently learning: **MERN Stack (MongoDB, Express, React, Node.js)**  
-🎯 Future plans: **PERN (PostgreSQL, Express, React, Node.js)**  
-🌟 Goal: Build efficient, scalable, and user-friendly applications  
+###  Aspiring Full Stack Developer  
+ Currently learning: **MERN Stack (MongoDB, Express, React, Node.js)**  
+ Future plans: **PERN (PostgreSQL, Express, React, Node.js)**  
+ Goal: Build efficient, scalable, and user-friendly applications  
 
 ---
 
-## 🌐 Socials
+## Socials
 
 <p align="center">
   <a href="https://facebook.com/njeybe" target="_blank">
@@ -27,7 +27,7 @@
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mongodb,mysql,figma,git,github,vscode&theme=dark" />
@@ -35,7 +35,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <table align="center">
   <tr>
@@ -50,12 +50,12 @@
 
 ---
 
-### 🏆 Top Contributed Repo
+### Top Contributed Repo
 <img src="https://github-contributor-stats.vercel.app/api?username=njeybe&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 
 ---
 
-<sub>✨ Proudly crafted with ❤️ by Joseph Brian Natividad ✨</sub>  
+<sub> Proudly crafted by Joseph Brian Natividad ✨</sub>  
 <!-- Created using GPRM (https://gprm.itsvg.in) -->
 
 </div>
