@@ -16,10 +16,6 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="35" alt="Gmail"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://facebook.com/njeybe" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="35" alt="Facebook"/>
-  </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/joseph-brian-natividad-b120ba2a3/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn"/>
   </a>
