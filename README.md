@@ -30,27 +30,9 @@
 #  Tech Stacks:
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon%40latest/icons/java/java-original.svg" height="40" alt="Java" />
-&nbsp;&nbsp;
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon%40latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-&nbsp;&nbsp;
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon%40latest/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-&nbsp;&nbsp;
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon%40latest/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-&nbsp;&nbsp;
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon%40latest/icons/react/react-original.svg" height="40" alt="React" />
-&nbsp;&nbsp;
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon%40latest/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-&nbsp;&nbsp;
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon%40latest/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-&nbsp;&nbsp;
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon%40latest/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-&nbsp;&nbsp;
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon%40latest/icons/figma/figma-original.svg" height="40" alt="Figma" />
-&nbsp;&nbsp;
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon%40latest/icons/git/git-original.svg" height="40" alt="Git" />
-&nbsp;&nbsp;
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon%40latest/icons/github/github-original.svg" height="40" alt="GitHub" />
+<a href="https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djava,js,html,css,react,nodejs,mongodb,mysql,figma,git,github%26theme%3Ddark" />
+</a>
 </p>
 
 #  GitHub Stats:
