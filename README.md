@@ -28,11 +28,6 @@
 
 ---
 
-### Top Contributed Repo
-<img src="https://github-contributor-stats.vercel.app/api?username=njeybe&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-
----
-
 <sub> Proudly crafted by Joseph Brian Natividad ✨</sub>  
 <!-- Created using GPRM (https://gprm.itsvg.in) -->
 
