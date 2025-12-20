@@ -2,11 +2,9 @@
 
 # **Joseph Brian Natividad**
 
-###  Aspiring Full Stack Developer  
- Currently learning: **MERN Stack (MongoDB, Express, React, Node.js)**  
- Future plans: **PERN (PostgreSQL, Express, React, Node.js)**  
- Goal: Build efficient, scalable, and user-friendly applications  
-
+###  Full Stack Developer     
+ I am currently learning Linux and aiming to become a Cloud Engineer. :>
+ 
 ---
 
 ## Socials
@@ -30,12 +28,7 @@
 ## Tools & Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mongodb,mysql,figma,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,js,php,html,css,react,nodejs,express,mongodb,mysql,linux,figma,git,github&theme=dark" />
 </p>
-
----
-
-<sub> Proudly crafted by Joseph Brian Natividad ✨</sub>  
-<!-- Created using GPRM (https://gprm.itsvg.in) -->
 
 </div>
