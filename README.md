@@ -3,7 +3,6 @@
 # **Joseph Brian Natividad**
 
 ###  Full Stack Developer     
- I am currently learning Linux and aiming to become a Cloud Engineer. :>
  
 ---
 
