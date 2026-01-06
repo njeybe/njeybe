@@ -2,7 +2,7 @@
 
 # **Joseph Brian Natividad**
 
-###  Full Stack Developer     
+###  Full Stack Developer (MERN)
  
 ---
 
