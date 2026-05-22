@@ -27,7 +27,7 @@
 ## Tools & Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,php,html,css,react,nodejs,express,mongodb,mysql,linux,figma,git,github,flutter,dart&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mongodb,mysql,figma,git,github,flutter,dart&theme=dark" />
 </p>
 
 </div>
